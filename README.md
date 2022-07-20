@@ -52,7 +52,9 @@ g) Remove doctors
 h) appointment history of all user
 
 
-thank you!
+##### thank you!
+
+
 Priyanshu uttam
 
 
